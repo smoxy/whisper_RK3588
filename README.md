@@ -1,3 +1,8 @@
+# Before use this fork
+## I just forked it and it's not already adapted to be used on RK3588.
+
+
+
 # Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
